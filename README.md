@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP-based web applications.
 - 🌱 I’m alwasy learning, currently about Symfony. 
 - 💞️ I’m looking to collaborate on custom projects.
-- 📫 Find me via harkalygergo.hu website.
+- 📫 Find me via [harkalygergo.hu](https://harkalygergo.github.io/) website.
 - ⌚ I love watches, maybe this is my hobby.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/harkalygergo)
