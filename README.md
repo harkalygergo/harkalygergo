@@ -1,9 +1,13 @@
+# Hello World,
+
 - 👋 Hi, I’m @harkalygergo, a full-stack web developer freelancer and CTO.
 - 👀 I'm interested in exciting PHP-based web applications.
 - 🌱 I'm always learning, currently about Symfony, than about React. 
 - 💞️ I'm always open to collaborate on custom projects.
 - 📫 Find out more about me via [harkalygergo.github.io](https://harkalygergo.github.io/)
 - ⌚ I love watches, but I don't have too much, mainly only read about them.
+
+I have public projects to help dev community. You can support me from 1 USD if you want.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/harkalygergo)
 
