@@ -7,7 +7,7 @@
 - ⌚ I love watches, but I don't have too much, mainly only read about them.
 - 📫 Find out more about me via [harkalygergo.github.io](https://harkalygergo.github.io/) .
 
-I have public projects to help dev community. You can support me from 1 USD if you want.
+I have public projects to help dev community. You can also support me from 1 USD.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/harkalygergo)
 
