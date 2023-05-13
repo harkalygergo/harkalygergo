@@ -2,7 +2,7 @@
 - 👀 I'm interested in exciting PHP-based web applications.
 - 🌱 I'm always learning, currently about Symfony, than about React. 
 - 💞️ I'm always open to collaborate on custom projects.
-- 📫 Find out more about me via [harkalygergo.github.io](https://harkalygergo.github.io/){:target="_blank"}
+- 📫 Find out more about me via [harkalygergo.github.io](https://harkalygergo.github.io/)
 - ⌚ I love watches, but I don't have too much, mainly only read about them.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/harkalygergo)
