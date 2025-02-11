@@ -1,9 +1,10 @@
 # Hello World,
 
-- 👋 Hi, I’m @harkalygergo, a full-stack web developer freelancer and CTO.
-- 🌱 I constantly improve myself, currently about Symfony.
-- 👀 I'm always interested in exciting PHP-based web applications.
-- 💞️ And I'm always open to collaborate on custom projects.
+- 👋 Hi, I’m @harkalygergo, a full-stack web developer.
+- 📚 My greatest knowledge is with Symfony and WordPress.
+- 🌱 I constantly improve myself, currently with Laravel.
+- 👀 I'm always interested in exciting projects or web applications.
+- 💞️ And I'm open to collaborate on interesting projects.
 - ⌚ I love watches, but I don't have too much, mainly only read about them.
 - 📫 Find out more about me via [harkalygergo.github.io](https://harkalygergo.github.io/) .
 
